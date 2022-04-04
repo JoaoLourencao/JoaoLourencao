@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Sou apaixonado por tecnologia e pelo seu avanço.
 Sou um desenvolvedor Fullstack com uma paixão por Front-End. :computer:
 
- ⚡  &nbsp; Estou trabalhando na **Bitzar Solutions**
+ ⚡  &nbsp; Estou trabalhando na **eNe Soluções**
  <br/> :purple_heart: &nbsp; Buscando aprimorar minhas técnicas de javascript e Front-End
  <br/> :blush: &nbsp; Posso te ajudar com HTML, CSS, VueJs e Javascript
  <br/> :computer: &nbsp; Minha stack: Vue.js, JavaScript, C#, PHP, MySql & MongoDB
