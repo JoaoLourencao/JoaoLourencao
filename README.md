@@ -20,10 +20,11 @@ Sou apaixonado por tecnologia e pelo seu avanço.
 Sou um desenvolvedor Fullstack com uma paixão por Front-End. :computer:
 
  ⚡  &nbsp; Estou trabalhando na **eNe Soluções**
- <br/> :purple_heart: &nbsp; Buscando aprimorar minhas técnicas de javascript e Front-End
+ <!-- <br/> :purple_heart: &nbsp; Buscando aprimorar minhas técnicas de javascript e Front-End
  <br/> :blush: &nbsp; Posso te ajudar com HTML, CSS, VueJs e Javascript
- <br/> :computer: &nbsp; Minha stack: Vue.js, JavaScript, C#, PHP, MySql & MongoDB
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Vue.js, JavaScript, C#, PHP, MySql & MongoDB
  <br/> 💬  &nbsp; Sobre mim: Amo tecnologias e seus afins, carros, jogos, sair com família/amigos e viajar!
+-->
 
 <div align="center">
   <a href="https://github.com/JoaoLourencao">
@@ -49,7 +50,7 @@ Sou um desenvolvedor Fullstack com uma paixão por Front-End. :computer:
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
  
 </div>
 
