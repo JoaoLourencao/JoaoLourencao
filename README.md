@@ -15,30 +15,34 @@ Here are some ideas to get you started:
 
 # João Pedro Lourenção
 
-## Olá visitante 👋
-Sou apaixonado por tecnologia e pelo seu avanço.
-Sou um desenvolvedor Fullstack com uma paixão por Front-End. :computer:
+## Hello visitor 👋
+I am passionate about technology and its advancement.
+ <br/> Full stack developer with a passion for Front-End. :computer:
 
- ⚡  &nbsp; Estou trabalhando na **eNe Soluções**
+ ⚡  &nbsp; I'm working at **eNe Soluções**
  <!-- <br/> :purple_heart: &nbsp; Buscando aprimorar minhas técnicas de javascript e Front-End
  <br/> :blush: &nbsp; Posso te ajudar com HTML, CSS, VueJs e Javascript
- <br/> :computer: &nbsp; Minha stack: ReactJS, Vue.js, JavaScript, C#, PHP, MySql & MongoDB
- <br/> 💬  &nbsp; Sobre mim: Amo tecnologias e seus afins, carros, jogos, sair com família/amigos e viajar!
--->
+  <br/> 💬  &nbsp; Sobre mim: Amo tecnologias e seus afins, carros, jogos, sair com família/amigos e viajar!
+ -->
+ :computer: &nbsp; My stack: ReactJS, NodeJS JavaScript, Typescript & Python
+
+ <br/>
 
 <div align="center">
   <a href="https://github.com/JoaoLourencao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoLourencao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLourencao&layout=compact&langs_count=7&theme=dracula&count_private=true&"/>
 </div>
+    <br/>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?short_path=e0e096a">
+  <img align="center" alt="Joao-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Joao-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Joao-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/43622814?s=96&v=4">
 </div>
@@ -46,7 +50,7 @@ Sou um desenvolvedor Fullstack com uma paixão por Front-End. :computer:
   ##
  
 <div> 
-  <a href="https://www.instagram.com/_joaolourencao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/joaolourencaoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jotap.lourencao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-pedro-lourencao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
