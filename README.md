@@ -24,7 +24,7 @@ I am passionate about technology and its advancement.
  <br/> :blush: &nbsp; Posso te ajudar com HTML, CSS, VueJs e Javascript
   <br/> 💬  &nbsp; Sobre mim: Amo tecnologias e seus afins, carros, jogos, sair com família/amigos e viajar!
  -->
- :computer: &nbsp; My stack: ReactJS, NodeJS JavaScript, Typescript & Python
+ :computer: &nbsp; My stack: ReactJS, NodeJS, JavaScript, Typescript & Python
 
  <br/>
 
